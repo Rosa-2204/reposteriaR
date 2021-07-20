@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposteriaR.Web", "ReposteriaR.Web\ReposteriaR.Web.csproj", "{7A715D1A-4480-4FC9-A1E3-B9EFED565216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposteriaR.WebAdmin", "ReposteriaR.WebAdmin\ReposteriaR.WebAdmin.csproj", "{2A9E3EEC-44BD-43E6-A3D3-18D71D24A1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reposteria.Win", "Resposteria\Reposteria.Win.csproj", "{96E932A0-E4FB-4CE0-97BB-A998A5B425CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposteriaR.BL", "ResposteriaR.BL\ReposteriaR.BL.csproj", "{CEAB07F9-F998-440E-9DC2-AC72317323E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{7A715D1A-4480-4FC9-A1E3-B9EFED565216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A715D1A-4480-4FC9-A1E3-B9EFED565216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A715D1A-4480-4FC9-A1E3-B9EFED565216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9E3EEC-44BD-43E6-A3D3-18D71D24A1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9E3EEC-44BD-43E6-A3D3-18D71D24A1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9E3EEC-44BD-43E6-A3D3-18D71D24A1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9E3EEC-44BD-43E6-A3D3-18D71D24A1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E932A0-E4FB-4CE0-97BB-A998A5B425CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E932A0-E4FB-4CE0-97BB-A998A5B425CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E932A0-E4FB-4CE0-97BB-A998A5B425CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E932A0-E4FB-4CE0-97BB-A998A5B425CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAB07F9-F998-440E-9DC2-AC72317323E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAB07F9-F998-440E-9DC2-AC72317323E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAB07F9-F998-440E-9DC2-AC72317323E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAB07F9-F998-440E-9DC2-AC72317323E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
